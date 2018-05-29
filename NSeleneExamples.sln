@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSeleneNugetPackageTest", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSeleneDotNetCoreMSTestProjectTest", "NSeleneDotNetCoreMSTestProjectTest\NSeleneDotNetCoreMSTestProjectTest.csproj", "{8265525C-D07C-4D7A-A9CF-72169F3E6115}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD61AB4F-640D-45AA-8533-709F7B5EB921}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
